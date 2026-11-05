@@ -6,6 +6,7 @@ Customer Behavior &amp; Sales Performance Dashboard using Power BI
 An interactive Power BI dashboard designed to analyze customer purchasing behavior, sales performance, product trends, and revenue growth.
 
 ## Dashboard Preview
+![Customer Behavior Dashboard](<Dashboard .png>)
 ![Dashboard Overview](Images/dashboard_overview.png)
 
 ## Business Objectives
